@@ -1,3 +1,5 @@
+<h3>This is coiped from hackiftekhar/IQKeyboardManager, all rights revserverd to hackiftekhar/IQKeyboardManager</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/hackiftekhar/IQKeyboardManager/master/Demo/Resources/icon.png" alt="Icon"/>
 </p>
